@@ -1,0 +1,7 @@
+{
+  "name": "UDP",
+  "references": [
+    "AppStoreSettings"
+  ],
+  "allowUnsafeCode": true
+}

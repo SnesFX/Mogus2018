@@ -1,0 +1,7 @@
+{
+  "name": "Apple",
+  "references": [
+    "Purchasing.Common"
+  ],
+  "allowUnsafeCode": true
+}

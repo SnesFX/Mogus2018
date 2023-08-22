@@ -1,0 +1,7 @@
+{
+  "name": "Security",
+  "references": [
+    "Purchasing.Common"
+  ],
+  "allowUnsafeCode": true
+}

@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac36e98c72b3b2e7cfd9a82b4664a849, type: 3}
+  m_Name: Military
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: 902a2ec9328b8c44f9b1ac7337de6b3c, type: 2}
+  FloorImage: {fileID: 21300000, guid: 6f7910d9db03a284c9c037c5aeddcfed, type: 2}
+  InFront: 1
+  Free: 0
+  ProductId: hat_military

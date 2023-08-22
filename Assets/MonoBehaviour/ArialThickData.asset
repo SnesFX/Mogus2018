@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c0eaa645a1fa525bd5b03f4cb3730592, type: 3}
+  m_Name: ArialThickData
+  m_EditorClassIdentifier:
+  FontName: ArialThick
+  kernings:
+  - First: 105
+    Second: 116
+    Pixels: 1
+  - First: 105
+    Second: 111
+    Pixels: 1
+  - First: 119
+    Second: 109
+    Pixels: 2
+  - First: 105
+    Second: 99
+    Pixels: 1

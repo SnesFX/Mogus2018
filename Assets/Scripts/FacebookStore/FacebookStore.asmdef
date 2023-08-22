@@ -1,0 +1,7 @@
+{
+  "name": "FacebookStore",
+  "references": [
+    "Purchasing.Common"
+  ],
+  "allowUnsafeCode": true
+}

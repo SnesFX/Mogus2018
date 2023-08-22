@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ac36e98c72b3b2e7cfd9a82b4664a849, type: 3}
+  m_Name: Wall Cap
+  m_EditorClassIdentifier:
+  MainImage: {fileID: 21300000, guid: 643d01adadb3b8b4686b53ae9eda644c, type: 2}
+  FloorImage: {fileID: 21300000, guid: 8cd637259ff2de045bdf5e2e76a91578, type: 2}
+  InFront: 1
+  Free: 0
+  ProductId: hat_wallcap
